@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 4th-year **Computer Science** student.<br><br>🧠 Mainly interested in **big data**, **machine learning**, **artificial intelligence**, **distributed systems**.<br><br>💻 I have a solid foundation in computer science fundamentals and experience in a wide range of academic and personal projects.<br><br>🌱 Open to learning new technologies, tools, and areas, and to taking on more complex technical challenges.<br>
+🎓 4th-year **Computer Science** student.<br><br>🧠 Mainly interested in **big data**, **machine learning**, **artificial intelligence**, **distributed systems**.<br><br>💻 I have experience in a wide range of academic and personal projects.<br><br>🌱 Open to learning new technologies, tools, and areas, and to taking on more complex technical challenges.<br>
 
 
 ## 🌐 Socials:
