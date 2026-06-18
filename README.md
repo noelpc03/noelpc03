@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 4th-year **Computer Science** student.  
+🎓 B.Sc. in Computer Science 
 🧠 Mainly interested in **big data**, **machine learning**, **artificial intelligence**, **distributed systems**.  
 💻 I have experience in a wide range of academic and personal projects.  
 🌱 Open to learning new technologies, tools, and areas, and to taking on more complex technical challenges.
